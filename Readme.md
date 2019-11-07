@@ -77,7 +77,7 @@ Pseuducode for calMonthlyPayment Method
 ```
 
 ## Flowchart
-![Flowchart](https://github.com/ngshenmeng2401/271059-STIA1113-A191-A1A2/blob/master/Programming%20Assignment%201%20(5).pdf)
+![Flowchart](https://github.com/ngshenmeng2401/271059-STIA1113-A191-A1A2/blob/master/FlowChart.png)
 
 ## Screenshot of the output
 ![output](https://github.com/ngshenmeng2401/271059-STIA1113-A191-A1A2/blob/master/Output.png)
