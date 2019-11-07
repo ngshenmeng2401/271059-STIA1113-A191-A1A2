@@ -1,10 +1,13 @@
 ## Student Info
+
 Matric:271059
 Name: Ng Shen Meng
 ## Introduction
+
 This assignment is telling about to calculate the monthly repayment of car, loan of car, principal of car, interest of car and the balance payment of car.
 Assignment 1 is drawing flowchart and writting pseuducode. Assignment 2 is typing program code.
 ## Pseuducode
+
 ```
 Start
 Declare method prototype for line(), calLoan, calInterestPayment, calPrincipal, calBalance , calMonthlyPayment and calTotalLoan.
@@ -77,7 +80,9 @@ Pseuducode for calMonthlyPayment Method
 ```
 
 ## Flowchart
+
 ![Flowchart](https://github.com/ngshenmeng2401/271059-STIA1113-A191-A1A2/blob/master/FlowChart.png)
 
 ## Screenshot of the output
+
 ![output](https://github.com/ngshenmeng2401/271059-STIA1113-A191-A1A2/blob/master/Output.png)
